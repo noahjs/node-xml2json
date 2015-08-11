@@ -11,7 +11,7 @@
   "dependencies": {
     "hoek": "^2.14.0",
     "joi": "^6.4.3",
-    "node-expat": "git+https://github.com/noahjs/node-expat.git"
+    "node-expat": "noahjs/node-expat"
   },
   "bin": {
     "xml2json": "bin/xml2json"
